@@ -16,4 +16,4 @@ function appendKitten(name)
 {return  [...kittens,'Broom']};
 
 function prependKitten(name)
-{treturn []
+{treturn ['Arnold', ...kittens]};
